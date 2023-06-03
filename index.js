@@ -13,7 +13,7 @@ titleSelect?.addEventListener('click', function(){
         localStorage.clear()
         localStorage.setItem("title", title)
 
-        window.location.href = "index.html"
+        window.location.href = "main.html"
     }
     
 })
